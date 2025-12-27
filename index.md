@@ -1,6 +1,6 @@
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 
-![Violet Hong](assets/github_profile.png)
+![Violet Hong](assets/github_profile.PNG)
 ---
 # Violet Hong | PhD Student
 
