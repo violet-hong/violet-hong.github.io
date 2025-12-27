@@ -16,6 +16,8 @@ December 2025
   [Read →](literature/2025_12_zachos2023.md)
 - **Co‐Culture System of Human Enteroids/Colonoids with Innate Immune Cells**
   [Read →](literature/2025_12_Staab2020.md)
+- ** Depletion of the apical endosome in response to viruses and bacterial toxins provides cell-autonomous host defense at mucosal surfaces**
+  [Read →](literature/2025_12_Maeda2020.md)
 - 
 
 
