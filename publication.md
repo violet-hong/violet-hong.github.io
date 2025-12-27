@@ -16,12 +16,13 @@ DOI: https://doi.org/10.1523/ENEURO.0005-24.2025
 **Lee J.D.**, Menasche B., Mavrikaki M., Uyemura M.M., **Hong S.M.**, Wei J., Alfajaro M.M., Filler R.B., Müller A., Posey R.R., Cheung P., Kozlova N., Muranen T., Paulo J.A., Wilen C.B., Slack F.J.  
 Differences in syncytia formation by SARS-CoV-2 variants modify host chromatin accessibility and cellular senescence via TP53.  
 *Cell Reports*, 2023.  
-DOI: https://doi.org/10.1016/j.celrep.2023.113478
+DOI: https://doi.org/10.1016/j.celrep.2023.113478 
 
-**Minchenberg S.B.**, Ortega Ribera M., Datta A., Brezani V., **Hong S.M.**, Kulkarni S., Nagesh P.T., Szabo G.  
+**Minchenberg S.B.** Ortega Ribera M., Datta A., Brezani V., **Hong S.M.**, Kulkarni S., Nagesh P.T., Szabo G.  
 Unraveling the GI tract’s response to alcohol binges: neutrophil recruitment, NETs, and intestinal injury.  
 *Alcohol: Clinical and Experimental Research*, 2025.  
 DOI: https://doi.org/10.1111/acer.70196
+
 ---
 
 ## Preprints
@@ -42,8 +43,6 @@ Reduced enteric BDNF–TrkB signaling drives glucocorticoid-mediated gastrointes
 DOI: https://doi.org/10.1101/2024.12.13.628260  
 
 ---
-
-## Posters & presentations
 ## Posters & Presentations
 
 **Seika P.**, **Hong S.M.**, Puttapaka S., Voltarelli V., Rajkumar M., Faheem K., Chang J., Pasricha T., Otterbein L., Kulkarni S.  
