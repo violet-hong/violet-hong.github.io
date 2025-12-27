@@ -73,7 +73,7 @@ concepts:
   - Closed_loop_intestinal_assay
   - Second_messenger_NHE3_inhibition
 ---
----
+
 ## Abstract
 BACKGROUND & AIMS: Acute diarrheal diseases are the second most common cause of infant mortality in developing countries. This is contributed to by lack of effective drug therapy that shortens the duration or lessens the volume of diarrhea. The epithelial brush border sodium (Na+)/ hydrogen (H+) exchanger 3 (NHE3) accounts for a major component of intestinal Na+ absorption and is inhibited in most diarrheas. Because increased intestinal Na+ absorption can rehydrate patients with diarrhea, NHE3 has been suggested as a potential druggable target for drug therapy for diarrhea.
 METHODS: A peptide (sodium-hydrogen exchanger 3 stimulatory peptide [N3SP]) was synthesized to mimic the part of the NHE3 C-terminus that forms a multiprotein complex that inhibits NHE3 activity. The effect of N3SP on NHE3 activity was evaluated in NHE3-transfected fibroblasts null for other plasma membrane NHEs, a human colon cancer cell line that models intestinal absorptive enterocytes (Caco-2/BBe), human enteroids, and mouse intestine in vitro and in vivo. N3SP was delivered into cells via a hydrophobic fluorescent maleimide or nanoparticles.
@@ -125,4 +125,4 @@ CONCLUSIONS: These findings suggest pharmacologic stimulation of NHE3 activity a
 - Mechanism by which N3SP broadly suppresses multiple forms of fluid secretion (beyond NHE3 activation) is not fully resolved.
 - Structural information on the full NHE3 C-terminal regulatory domain is limited, constraining mechanistic precision.
 - Oral stability, regional release, and dosing strategies for clinical translation remain to be optimized.
----
+
