@@ -1,7 +1,7 @@
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 <p align="center">
-  <img src="assets/github_profile.PNG" alt="Violet Hong" width="180">
+  <img src="assets/github_profile.PNG" alt="Violet Hong" width="200">
 </p>
 
 ---
