@@ -1,5 +1,4 @@
-### Navigation
-[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
+[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 # Violet Hong | PhD Student
 
