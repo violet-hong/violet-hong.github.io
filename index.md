@@ -2,7 +2,6 @@
 title: Violet Hong | PhD Student
 ---
 
-# Su Min “Violet” Hong
 
 PhD Student, Interdisciplinary Graduate Program  
 Vanderbilt University
