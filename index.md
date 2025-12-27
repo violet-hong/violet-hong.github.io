@@ -22,5 +22,5 @@ gastrointestinal disease.
 - [Research](research.md)
 - [Publications](publications.md)
 - [CV](cv.md)
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/violet-hong)
 
