@@ -1,0 +1,159 @@
+---
+read_status: annotated
+type: paper
+title: A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity
+year: 2023
+authors:
+  - Zachos, Nicholas C.
+  - Vaughan, Hannah
+  - Lin, Ruxian
+  - Sarker, Rafiquel
+  - Est-Witte, Savannah
+  - Chakraborty, Molee
+  - Baetz, Nicholas W.
+  - Yu, Hongzhe
+  - Yarov-Yarovoy, Vladimir
+  - McNamara, George
+  - Green, Jordan J.
+  - Tse, Chung-Ming
+  - Donowitz, Mark
+journal: Gastroenterology
+doi: 10.1053/j.gastro.2023.06.028
+url: https://linkinghub.elsevier.com/retrieve/pii/S0016508523047662
+project:
+  - Rotation_03
+system:
+  - intestinal epithelium
+  - brush border
+  - epithelial transport
+disease:
+  - acute diarrhea
+  - secretory diarrhea
+  - inflammatory diarrhea
+  - cholera
+  - etec diarrhea
+genes:
+  - NHE3
+  - SLC9A3
+  - NHERF2
+processes:
+  - epithelial Na+ absorption
+  - membrane trafficking
+  - protein-protein interactions
+methods:
+  - human enteroids
+  - in vivo intestinal loop assay
+  - peptide mimetic design
+  - nanoparticle delivery
+key_findings:
+  - nhe3 activation
+  - absorption restoration
+  - second messenger resistance
+  - fluid secretion prevention
+  - nhe3 specificity
+limitations:
+  - incomplete mechanism
+  - structural uncertainty
+  - delivery translation
+relevance:
+  - therapeutic targeting
+  - absorption based therapy
+  - epithelial trafficking
+  - translational model
+tags:
+  - literature
+  - gi/transport
+  - gi/diarrhea
+  - epithelial/absorption
+  - epithelial/trafficking
+  - nhe3
+  - translational
+  - enteroids
+concepts:
+  - Absorption_vs_secretion_in_diarrhea
+  - NHE3_regulatory_complexes
+  - Closed_loop_intestinal_assay
+  - Second_messenger_NHE3_inhibition
+---
+
+## Status
+
+```button
+name ⬜ Unread
+type command
+action Templater: Insert set_read_unread
+```
+
+```button
+name 👀 Skimmed
+type command
+action Templater: Insert set_read_skimmed
+```
+
+```button
+name ✅ Read
+type command
+action Templater: Insert set_read_read
+```
+
+```button
+name 🧠 Annotated
+type command
+action Templater: Insert set_read_annotated
+```
+
+---
+
+
+
+## Abstract
+BACKGROUND & AIMS: Acute diarrheal diseases are the second most common cause of infant mortality in developing countries. This is contributed to by lack of effective drug therapy that shortens the duration or lessens the volume of diarrhea. The epithelial brush border sodium (Na+)/ hydrogen (H+) exchanger 3 (NHE3) accounts for a major component of intestinal Na+ absorption and is inhibited in most diarrheas. Because increased intestinal Na+ absorption can rehydrate patients with diarrhea, NHE3 has been suggested as a potential druggable target for drug therapy for diarrhea.
+METHODS: A peptide (sodium-hydrogen exchanger 3 stimulatory peptide [N3SP]) was synthesized to mimic the part of the NHE3 C-terminus that forms a multiprotein complex that inhibits NHE3 activity. The effect of N3SP on NHE3 activity was evaluated in NHE3-transfected fibroblasts null for other plasma membrane NHEs, a human colon cancer cell line that models intestinal absorptive enterocytes (Caco-2/BBe), human enteroids, and mouse intestine in vitro and in vivo. N3SP was delivered into cells via a hydrophobic fluorescent maleimide or nanoparticles.
+RESULTS: N3SP uptake stimulated NHE3 activity at nmol/L concentrations under basal conditions and partially reversed the reduced NHE3 activity caused by elevated adenosine 3′,5′cyclic monophosphate, guanosine 3′,5′-cyclic monophosphate, and Ca2+ in cell lines and in in vitro mouse intestine. N3SP also stimulated intestinal fluid absorption in the mouse small intestine in vivo and prevented cholera toxin–, Escherichiacoliheat-stable enterotoxin–, and cluster of differentiation 3 inflammation–induced fluid secretion in a live mouse intestinal loop model.
+CONCLUSIONS: These findings suggest pharmacologic stimulation of NHE3 activity as an efficacious approach for the treatment of moderate/severe diarrheal diseases. Graphical Abstract Zachos et al. Page 2
+
+![[Screenshot 2025-12-19 at 11.51.03 AM.png]]
+
+## Key Findings
+- Designed a cell-permeant peptide (N3SP) that mimics the inhibitory regulatory domain of the NHE3 C-terminus and **paradoxically stimulates NHE3 activity** by competitively disrupting inhibitory protein complexes.
+- N3SP stimulates **basal NHE3 activity** with high potency (EC50 ~150 nM) and **prevents NHE3 inhibition** mediated by cAMP, cGMP, and Ca²⁺ signaling.
+- In vivo, N3SP **prevents intestinal fluid secretion** induced by cholera toxin, E. coli heat-stable enterotoxin, and anti-CD3–mediated inflammatory diarrhea.
+- N3SP preserves **brush border localization of NHE3** during diarrheal stimuli, preventing toxin-induced endocytosis of NHE3.
+- Nanoparticle-mediated delivery of N3SP is effective in **human jejunal enteroid monolayers**, demonstrating translational relevance.
+- The anti-diarrheal effect is **NHE3-dependent**, as it is abolished by the NHE3 inhibitor tenapanor.
+
+## Methods
+- Rational peptide design based on prior mapping of the NHE3 inhibitory regulatory complex (IRCX) on the C-terminal cytoplasmic domain.
+- Rosetta structural modeling used to predict peptide stability and guide truncation boundaries.
+- Cell-permeant delivery via BODIPY-maleimide conjugation (proof-of-concept) and PBAE-based nanoparticles (clinically relevant delivery).
+- Functional NHE3 activity assays performed in:
+  - PS120 fibroblasts expressing NHE3
+  - Polarized Caco-2/BBe epithelial monolayers
+  - Mouse jejunum (ex vivo and in vivo)
+  - Human jejunal enteroid monolayers
+- In vivo closed-loop mouse intestinal models used to quantify net fluid absorption/secretion.
+- Short-circuit current (Isc) measurements used to exclude CFTR inhibition as the mechanism.
+- Peptide–protein overlay assays used to test disruption of NHERF2 binding to the NHE3 C-terminus.
+
+
+## Notes
+- Conceptually important shift: diarrhea is framed as a failure of **absorption**, not only excess secretion.
+- Unlike CFTR inhibitors, N3SP restores fluid balance by **reactivating epithelial Na⁺ uptake**.
+- N3SP acts downstream of second messengers (cAMP/cGMP), indicating regulation at the level of **protein complexes and trafficking**, not signal generation.
+- The magnitude of fluid rescue in vivo is striking and suggests absorptive processes may dominate net fluid balance more than previously appreciated.
+- Particularly compelling that effects are conserved across mouse models and human enteroids.
+- Strong example of mechanistically informed peptide design translating into physiologic rescue.
+
+
+## Figures / Data
+- Figure 1: Defines NHE3 inhibitory regulatory complex and peptide design rationale.
+- Figure 2: Demonstrates N3SP uptake, stimulation of basal NHE3, and protection from cAMP/Ca²⁺ inhibition (core mechanistic data).
+- Figure 3: In vivo mouse intestinal loop assays showing prevention of toxin- and inflammation-induced fluid secretion.
+- Figure 4: Nanoparticle delivery and functional rescue of NHE3 activity in human jejunal enteroids.
+- Figure 5: Tenapanor sensitivity confirms NHE3-dependent mechanism.
+- Figure 6: NHERF2 overlay assay supports competitive displacement of inhibitory binding partners.
+
+## Limitations
+- Mechanism by which N3SP broadly suppresses multiple forms of fluid secretion (beyond NHE3 activation) is not fully resolved.
+- Structural information on the full NHE3 C-terminal regulatory domain is limited, constraining mechanistic precision.
+- Oral stability, regional release, and dosing strategies for clinical translation remain to be optimized.
