@@ -11,10 +11,8 @@ These notes are written for clarity and synthesis rather than completeness.
 
 ## 2025
 
-- **Microvillus Inclusion Disease and apical cytoskeletal failure**  
-  Jan 2025  
-  [Read →](literature/2025-01-mvid-apical-cytoskeleton.md)
+- **A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity**  
+  December 2025  
+  [Read →](literature/2025_12_zachos2023.md)
 
-- **BDNF–TrkB signaling in gut motility and stress responses**  
-  Feb 2025  
-  [Read →](literature/2025-02-bdnf-trkb-gut.md)
+
