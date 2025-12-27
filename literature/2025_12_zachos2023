@@ -1,7 +1,5 @@
-
-```
-title: A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity
 ---
+title: A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity
 year: 2023
 authors:
   - Zachos, Nicholas C.
@@ -19,7 +17,7 @@ authors:
   - Donowitz, Mark
 journal: Gastroenterology
 doi: 10.1053/j.gastro.2023.06.028
-[url]: (https://linkinghub.elsevier.com/retrieve/pii/S0016508523047662)
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0016508523047662"
 project:
   - Rotation_03
 system:
@@ -75,7 +73,7 @@ concepts:
   - Closed_loop_intestinal_assay
   - Second_messenger_NHE3_inhibition
 ---
-```
+
 
 ## Abstract
 BACKGROUND & AIMS: Acute diarrheal diseases are the second most common cause of infant mortality in developing countries. This is contributed to by lack of effective drug therapy that shortens the duration or lessens the volume of diarrhea. The epithelial brush border sodium (Na+)/ hydrogen (H+) exchanger 3 (NHE3) accounts for a major component of intestinal Na+ absorption and is inhibited in most diarrheas. Because increased intestinal Na+ absorption can rehydrate patients with diarrhea, NHE3 has been suggested as a potential druggable target for drug therapy for diarrhea.
