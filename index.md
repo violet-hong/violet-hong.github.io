@@ -19,8 +19,6 @@ gastrointestinal disease.
 ---
 
 ## Links
-- [Research](research.md)
-- [Publications](publications.md)
-- [CV](cv.md)
+- Google Scholar: https://scholar.google.com/citations?user=2sYlRigAAAAJ&hl=en
 - [GitHub](https://github.com/violet-hong)
 
