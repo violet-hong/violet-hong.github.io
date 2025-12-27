@@ -15,7 +15,9 @@ These notes are written for clarity and synthesis rather than completeness.
   December 2025  
   [Read →](literature/2025_12_zachos2023.md)
 - **Co‐Culture System of Human Enteroids/Colonoids with Innate Immune Cells**
+
   December 2025
+
   [Read →](literature/2025_12_Staab2020.md)
 - 
 
