@@ -14,17 +14,17 @@ DOI: 10.1016/j.ard.2025.06.2119
 **Gorecki A.M.**, Slosberg J., **Hong S.M.**, Midgen B., Singh A., Zhang C., Gurumurthy R., Kulkarni S.  
 Rate of neuronal turnover in the healthy adult murine myenteric ganglia varies with ganglia size.  
 *eNeuro*, 2025.  
-DOI: 10.1523/ENEURO.0005-24.2025
+DOI: https://doi.org/10.1523/ENEURO.0005-24.2025
 
 **Lee J.D.**, Menasche B., Mavrikaki M., Uyemura M.M., **Hong S.M.**, Wei J., Alfajaro M.M., Filler R.B., Müller A., Posey R.R., Cheung P., Kozlova N., Muranen T., Paulo J.A., Wilen C.B., Slack F.J.  
 Differences in syncytia formation by SARS-CoV-2 variants modify host chromatin accessibility and cellular senescence via TP53.  
 *Cell Reports*, 2023.  
-DOI: 10.1016/j.celrep.2023.113478
+DOI: https://doi.org/10.1016/j.celrep.2023.113478
 
 **Minchenberg S.B.**, Ortega Ribera M., Datta A., Brezani V., **Hong S.M.**, Kulkarni S., Nagesh P.T., Szabo G.  
 Unraveling the GI tract’s response to alcohol binges: neutrophil recruitment, NETs, and intestinal injury.  
 *Alcohol: Clinical and Experimental Research*, 2025.  
-DOI: 10.1111/acer.70196
+DOI: https://doi.org/10.1111/acer.70196
 
 ---
 
