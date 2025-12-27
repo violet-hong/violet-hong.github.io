@@ -1,4 +1,5 @@
 ---
+---
 # Publications & Preprints
 
 ## Peer-reviewed publications
@@ -22,7 +23,6 @@ DOI: https://doi.org/10.1016/j.celrep.2023.113478
 Unraveling the GI tract’s response to alcohol binges: neutrophil recruitment, NETs, and intestinal injury.  
 *Alcohol: Clinical and Experimental Research*, 2025.  
 DOI: https://doi.org/10.1111/acer.70196
-
 ---
 
 ## Preprints
