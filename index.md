@@ -1,7 +1,7 @@
 ---
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md)
 
-title: Violet Hong | PhD Student
+Violet Hong | PhD Student
 ---
 
 PhD Student, Interdisciplinary Graduate Program  
