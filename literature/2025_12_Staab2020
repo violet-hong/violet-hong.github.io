@@ -1,0 +1,106 @@
+## Co‐Culture System of Human Enteroids/Colonoids with Innate Immune Cells
+---
+read_status: annotated
+type: paper
+title: Co‐Culture System of Human Enteroids/Colonoids with Innate Immune Cells
+year: 2020
+authors:
+  - Staab, Janet F.
+  - Lemme‐Dumit, Jose M.
+  - Latanich, Rachel
+  - Pasetti, Marcella F.
+  - Zachos, Nicholas C.
+journal: Current Protocols in Immunology
+doi: 10.1002/cpim.113
+url: https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpim.113
+project:
+  - Rotation_03
+system:
+  - intestinal_epithelium
+  - epithelial_barrier
+  - basolateral_compartment
+  - apical_compartment
+  - innate_immune_niche
+disease:
+  - intestinal_inflammation
+  - infectious_diarrhea
+  - mucosal_barrier_dysfunction
+genes:
+  - m_csf
+  - wnt3a
+  - r_spondin_1
+  - noggin
+  - egf
+processes:
+  - epithelial_immune_crosstalk
+  - epithelial_barrier_regulation
+  - innate_immune_activation
+  - cytokine_secretion
+  - immune_cell_transmigration
+  - epithelial_differentiation
+methods:
+  - human_enteroid_monolayers
+  - transwell_co_culture
+  - primary_immune_cell_isolation
+  - teer_measurement
+  - cytokine_profiling
+  - immunofluorescence_imaging
+key_findings:
+  - immune_cells_modulate_epithelial_barrier
+  - compartmentalized_epithelial_immune_signaling
+  - neutrophil_transmigration_across_epithelium
+  - macrophage_epithelial_homeostatic_interactions
+limitations:
+  - short_term_co_culture_viability
+  - absence_of_mesenchymal_and_neuronal_cells
+  - reduced_systemic_immune_complexity
+relevance:
+  - physiologically_relevant_human_gut_model
+  - platform_for_host_pathogen_studies
+  - translational_preclinical_assay
+tags:
+  - gi_models
+  - organoids
+  - innate_immunity
+  - epithelial_barrier
+concepts:
+  - enteroid_monolayer_co_culture
+  - epithelial_barrier_integrity
+  - epithelial_immune_crosstalk
+  - transwell_polarized_assays
+---
+## Abstract
+Human intestinal enteroids derived from adult stem cells offer a relevant ex vivo system to study biological processes of the human gut. They recreate cellular and functional features of the intestinal epithelium of the small intestine (enteroids) or colon (colonoids) albeit limited by the lack of associated cell types that help maintain tissue homeostasis and respond to external challenges. In the gut, innate immune cells interact with the epithelium, support barrier function, and deploy effector functions. We have established a co-culture system of enteroid/colonoid monolayers and underlying macrophages and polymorphonuclear neutrophils to recapitulate the cellular framework of the human intestinal epithelial niche. Enteroids are generated from biopsies or resected tissue from any segment of the human gut and maintained in long-term cultures as three-dimensional structures through supplementation of stem cell growth factors. Immune cells are isolated from fresh human whole blood or frozen peripheral blood mononuclear cells (PBMC). Monocytes from PBMC are differentiated into macrophages by cytokine stimulation prior to co-culture. The methods are divided into the two main components of the model: (1) generating enteroid/colonoid monolayers and isolating immune cells and (2) assembly of enteroid/ colonoid-immune cell co-cultures with separate apical and basolateral compartments. Co-cultures containing macrophages can be maintained for 48 hr while those involving neutrophils, due to their shorter life span, remain viable for 4 hr. Enteroid-immune co-cultures enable multiple outcome measures, including transepithelial resistance, production of cytokines/chemokines, phenotypic analysis of immune cells, tissue immunofluorescence imaging, protein or mRNA expression, antigen or microbe uptake, and other cellular functions.
+
+## Key Findings
+Human enteroid/colonoid monolayers can be stably co-cultured with primary macrophages or neutrophils
+Basolateral positioning of immune cells preserves epithelial polarity and enables physiologic signaling
+Macrophage co-culture supports epithelial barrier integrity and cytokine exchange over 24–48 hr
+Neutrophil co-culture models acute inflammatory interactions and immune migration across epithelium
+The system enables segment-specific epithelial responses using patient-derived tissues
+
+## Methods
+Generation of adult stem-cell–derived enteroid monolayers on Transwell inserts
+PBMC isolation followed by monocyte differentiation into macrophages using M-CSF
+Primary neutrophil isolation from human blood for short-term co-culture
+TEER measurements to quantify epithelial barrier integrity
+Multiparametric outputs: cytokine assays, immune phenotyping, imaging, uptake assays
+
+## Notes
+Establishes a human-relevant epithelial–immune niche absent from epithelial monocultures
+Reframes enteroids from epithelial-only systems to modular multicellular platforms
+Enables mechanistic dissection of immune contributions to epithelial physiology
+Supports personalized medicine approaches using matched epithelial and immune donors
+
+## Figures / Data
+Figure 1: Schematic of polarized enteroid–immune cell Transwell co-culture architecture
+Figure 2: TEER dynamics demonstrating epithelial barrier maturation and immune modulation
+Figure 3: Cytokine and chemokine output from epithelial–immune interactions
+Figure 4: Immunofluorescence localization of immune cells relative to epithelial monolayers
+
+## Limitations
+Neutrophil co-cultures restricted to very short experimental windows
+Absence of adaptive immune components limits chronic disease modeling
+Reductionist architecture lacks mesenchymal and neuronal contributions
+Immune-derived cytokines cannot always be unambiguously assigned to specific cell types
+
