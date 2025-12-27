@@ -76,7 +76,7 @@ concepts:
   - Second_messenger_NHE3_inhibition
 ---
 
-## Status
+### Status
 
 ```button
 name ⬜ Unread
@@ -106,7 +106,7 @@ action Templater: Insert set_read_annotated
 
 
 
-## Abstract
+### Abstract
 BACKGROUND & AIMS: Acute diarrheal diseases are the second most common cause of infant mortality in developing countries. This is contributed to by lack of effective drug therapy that shortens the duration or lessens the volume of diarrhea. The epithelial brush border sodium (Na+)/ hydrogen (H+) exchanger 3 (NHE3) accounts for a major component of intestinal Na+ absorption and is inhibited in most diarrheas. Because increased intestinal Na+ absorption can rehydrate patients with diarrhea, NHE3 has been suggested as a potential druggable target for drug therapy for diarrhea.
 METHODS: A peptide (sodium-hydrogen exchanger 3 stimulatory peptide [N3SP]) was synthesized to mimic the part of the NHE3 C-terminus that forms a multiprotein complex that inhibits NHE3 activity. The effect of N3SP on NHE3 activity was evaluated in NHE3-transfected fibroblasts null for other plasma membrane NHEs, a human colon cancer cell line that models intestinal absorptive enterocytes (Caco-2/BBe), human enteroids, and mouse intestine in vitro and in vivo. N3SP was delivered into cells via a hydrophobic fluorescent maleimide or nanoparticles.
 RESULTS: N3SP uptake stimulated NHE3 activity at nmol/L concentrations under basal conditions and partially reversed the reduced NHE3 activity caused by elevated adenosine 3′,5′cyclic monophosphate, guanosine 3′,5′-cyclic monophosphate, and Ca2+ in cell lines and in in vitro mouse intestine. N3SP also stimulated intestinal fluid absorption in the mouse small intestine in vivo and prevented cholera toxin–, Escherichiacoliheat-stable enterotoxin–, and cluster of differentiation 3 inflammation–induced fluid secretion in a live mouse intestinal loop model.
