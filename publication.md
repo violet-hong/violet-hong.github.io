@@ -1,6 +1,4 @@
 ---
-title: Publications & Preprints
----
 
 # Publications & Preprints
 
