@@ -11,17 +11,17 @@ Structured syntheses of papers that shape how I think about GI biology.
 These emphasize conceptual integration and open questions rather than
 paper-by-paper summary.
 
-→ [All literature notes](literature/)
+→ [All literature notes](literature/literature_index.md)
 
 ## Protocols & Methods
 
 Experimentally validated protocols and methodological notes developed or
 adapted during my research training.
 
-→ [All protocols](protocols/)
+→ [All protocols](protocols/protocol_index.md)
 
 ## Concepts & Models
 
 Conceptual frameworks and working models that guide my experimental thinking.
 
-→ [All concepts](concepts/)
+→ [All concepts](concepts/concepts_index.md)
