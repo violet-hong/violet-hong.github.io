@@ -5,4 +5,4 @@ title: CV
 # CV
 
 
-- [Download CV (PDF)](assets/Violet_Hong_CV.pdf)
+- [Download CV (PDF)](assets/Hong_2025_CV_v4.pdf)
