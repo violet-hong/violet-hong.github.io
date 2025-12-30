@@ -11,3 +11,10 @@
   height: 42px;
   object-fit: contain;
 }
+
+/* Center page content and add breathing room */
+.markdown-body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
