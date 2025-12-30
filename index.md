@@ -1,4 +1,4 @@
-<div style="position: fixed; top: 20px; right: 20px; z-index: 99999; display: flex; justify-content: flex-end; width: auto;">
+<div style="position: absolute; top: 20px; right: 20px; z-index: 99999;">
   <img src="assets/vanderbilt.png" alt="Vanderbilt"
        style="height: 42px; width: auto; display: block;">
 </div>
