@@ -11,22 +11,45 @@
   height: 42px;
   object-fit: contain;
 }
-
+}
+/* Global readability */
 .markdown-body {
   max-width: 880px;
   margin: 0 auto;
   padding: 3rem 2rem;
-  line-height: 1.65;
+  line-height: 1.7;
+  font-size: 17px;
 }
 
-.markdown-body p {
-  margin-bottom: 1.4rem;
-}
-
+/* Headings: cleaner hierarchy */
 .markdown-body h1 {
-  margin-top: 2.5rem;
-  margin-bottom: 1.2rem;
+  font-size: 2.2rem;
+  margin: 0 0 1rem 0;
+  letter-spacing: -0.02em;
 }
+
+.markdown-body h2 {
+  font-size: 1.5rem;
+  margin-top: 2.4rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #eaecef;
+}
+
+/* Paragraph spacing */
+.markdown-body p {
+  margin: 0 0 1.25rem 0;
+}
+
+/* Links: less harsh */
+.markdown-body a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(9, 105, 218, 0.35);
+}
+.markdown-body a:hover {
+  border-bottom-color: rgba(9, 105, 218, 0.9);
+}
+
 
 .markdown-body h2 {
   margin-top: 2.2rem;
