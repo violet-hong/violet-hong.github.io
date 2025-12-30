@@ -50,22 +50,11 @@
 /* Links: less harsh */
 .markdown-body a {
   text-decoration: none;
-  border-bottom: 1px solid rgba(9, 105, 218, 0.35);
-}
-
-/* Don’t underline big header links (site title) */
-.markdown-body h1 a,
-.markdown-body h2 a {
-  border-bottom: none;
-}
-
-/* Don’t underline the navbar links line */
-.markdown-body > p:first-of-type a {
   border-bottom: none;
 }
 
 .markdown-body a:hover {
-  border-bottom-color: rgba(9, 105, 218, 0.9);
+  text-decoration: underline;
 }
 
 /* Card-style sections */
