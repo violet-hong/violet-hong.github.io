@@ -51,7 +51,13 @@
 }
 
 
-.markdown-body h2 {
-  margin-top: 2.2rem;
-  margin-bottom: 1rem;
+/* Card-style sections */
+.card {
+  background: #ffffff;
+  border: 1px solid #eaecef;
+  border-radius: 14px;
+  padding: 1.25rem 1.25rem;
+  box-shadow: 0 6px 20px rgba(140, 149, 159, 0.15);
+  margin: 1.5rem 0;
+}
 
