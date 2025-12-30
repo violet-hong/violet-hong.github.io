@@ -23,6 +23,7 @@
 Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program(IGP) at Vanderbilt University since August 2025. 
 </div>
 
+
 My prior research experience spanned enteric neurobiology, epithelial–stromal interactions, and cancer biology, with an emphasis on mechanistic and translational approaches using murine models and human tissue. 
 
 In the [Muranen Lab](https://www.muranenlab.org/) at Beth Israel Deaconess Medical Center, I investigated how the stromal tumor microenvironment promoted chemoresistance in pancreatic cancer by modulating DNA damage response pathways,including the identification of [NDRG1 as a regulator linking stromal signaling to tumor cell survival](https://pubmed.ncbi.nlm.nih.gov/39896456/).
