@@ -18,7 +18,7 @@
   <img src="assets/github_profile.PNG" alt="Violet Hong" width="200">
 </p>
 
-## Violet Hong | PhD Student
+  ## Violet Hong | PhD Student
   Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program
     (IGP) at Vanderbilt University since August 2025. 
 
@@ -37,7 +37,7 @@
 
   In my PhD training, I aim to build on this foundation by investigating how cellular mechanisms within the gastrointestinal tract maintain tissue function and how their disruption drives disease.
 
-## Research and Scientific Interest (Keywords)
+  ## Research and Scientific Interest (Keywords)
 - Gastrointestinal (GI) tract
 - epithelial cell biology (microvilli growth, cytoskeleton, trafficking)
 - enteric nervous system
@@ -50,7 +50,7 @@
 - Patient-derived research tool (Biobanking)
 ---
 
-## Links
+  ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=2sYlRigAAAAJ&hl=en)
 - [GitHub](https://github.com/violet-hong)
 - [ORCID ID]( https://orcid.org/0009-0006-8472-9924)
