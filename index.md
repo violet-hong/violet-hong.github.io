@@ -1,7 +1,15 @@
-<div style="position: absolute; top: 20px; right: 20px; z-index: 99999;">
+<div style="
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  padding: 16px 20px;
+  display: flex;
+  justify-content: flex-end;
+  z-index: 999999;
+  pointer-events: none;">
   <img src="assets/vanderbilt.png" alt="Vanderbilt"
-       style="height: 42px; width: auto; display: block;">
+       style="height: 42px; width: auto; pointer-events: auto;">
 </div>
+
 
 ---
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
