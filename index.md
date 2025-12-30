@@ -12,7 +12,7 @@
 
 
 ---
-[Home](index.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
+[Home](index.md) | [News/Updates](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 # Welcome
 <p align="center">
@@ -33,7 +33,7 @@ In my PhD training, I aim to build on this foundation by investigating how cellu
 
 ## Research and Scientific Interest (Keywords)
 - Gastrointestinal (GI) tract
-- epithelial biology
+- epithelial cell biology (microvilli growth, cytoskeleton, trafficking)
 - enteric nervous system
 - Fibroblasts (normal vs disease-associated)
 - Motility dysfunction & nutrient/water malaborption (IBS-C, IBS-D, IBS-M)
