@@ -1,0 +1,13 @@
+.logo-bar {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.logo-bar img {
+  height: 42px;
+  object-fit: contain;
+}
