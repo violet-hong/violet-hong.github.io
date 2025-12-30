@@ -12,7 +12,7 @@
 
 
 ---
-[Home](index.md) | [News/Updates](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
+[Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 # Welcome
 <p align="center">
