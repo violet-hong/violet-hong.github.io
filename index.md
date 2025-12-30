@@ -5,18 +5,26 @@
 </p>
 
 ---
-# Violet Hong | PhD Student
+# Welcome
 
-PhD Student, Interdisciplinary Graduate Program  
-Vanderbilt University
+## Violet Hong | PhD Student
+Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program
+(IGP) at Vanderbilt University. 
 
-I study how cytoskeletal organization and epithelial–neural signaling
-maintain intestinal homeostasis, and how their disruption leads to
-gastrointestinal disease.
-
+## Research and Scientific Interest (Keywords)
+- Gastrointestinal (GI) tract
+- epithelial biology
+- enteric nervous system
+- Fibroblasts (normal vs disease-associated)
+- Motility dysfunction & nutrient/water malaborption (IBS-C, IBS-D, IBS-M)
+- GI (pancreatic, gastric, esophageal, colorectal etc.) pre-cancers & cancers
+- Inflammatory diseases: IBD (UC and Crohn's)
+- Diet/Weight gain/Weight loss
+- Hormones (PCOS)
+- Patient-derived research tool (Biobanking)
 ---
 
-## Research Interests
+## News/Updates
 - 
 
 ---
