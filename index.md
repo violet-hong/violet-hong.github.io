@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
+<style>
+.logo-bar {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  display: flex;
+  align-items: center;
+}
 
-<body>
-  {{ content }}
-</body>
-</html>
----
-layout: default
+.logo-bar img {
+  height: 42px;
+  object-fit: contain;
+}
+</style>
 ---
 <div class="logo-bar">
   <img src="assets/logos/vanderbilt.png" alt="Vanderbilt">
