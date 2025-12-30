@@ -1,23 +1,8 @@
-<style>
-.logo-bar {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  display: flex;
-  align-items: center;
-}
-
-.logo-bar img {
-  height: 42px;
-  object-fit: contain;
-}
-</style>
-
-<div class="logo-bar">
-  <img src="assets/vanderbilt.png" alt="Vanderbilt">
+<div style="position: fixed; top: 20px; right: 30px; display: flex; align-items: center; gap: 16px; z-index: 9999;">
+  <img src="assets/vanderbilt.png" alt="Vanderbilt" style="height: 42px; width: auto; object-fit: contain;">
 </div>
 
-
+---
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 # Welcome
