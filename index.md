@@ -9,8 +9,8 @@
   <img src="assets/vanderbilt.png" alt="Vanderbilt"
        style="height: 42px; width: auto; pointer-events: auto;">
 </div>
-
-
+---
+layout: default
 ---
 [Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
