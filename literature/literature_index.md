@@ -10,7 +10,10 @@ These notes are written for clarity and synthesis rather than completeness.
 ---
 
 ## 2025
-
+August 2025
+- **Replication Fork Activation Is Enabled by a Single-Stranded DNA Gate in CMG Helicase**
+  [Read →](2025_08_Wasserman2019.md)
+  
 December 2025
 - **A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity**
   [Read →](2025_12_zachos2023.md)
