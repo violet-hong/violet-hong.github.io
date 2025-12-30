@@ -15,7 +15,7 @@ August 2025
   [Read →](2025_08_Wasserman2019.md)
   
 September 2025
-**DNA damage induces p53-independent apoptosis through ribosome stalling**
+- **DNA damage induces p53-independent apoptosis through ribosome stalling**
   [Read →](2025_09_Boon2024.md)
 
 October 2025
