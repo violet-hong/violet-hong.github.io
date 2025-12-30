@@ -1,6 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  {{ content }}
+</body>
+</html>
+---
+layout: default
+---
 <div class="logo-bar">
   <img src="assets/logos/vanderbilt.png" alt="Vanderbilt">
 </div>
+
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
 # Welcome
