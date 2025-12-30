@@ -13,9 +13,13 @@ These notes are written for clarity and synthesis rather than completeness.
 August 2025
 - **Replication Fork Activation Is Enabled by a Single-Stranded DNA Gate in CMG Helicase**
   [Read →](2025_08_Wasserman2019.md)
+
+October 2025
+- **WNT-induced association of Frizzled and LRP6 is not sufficient for the initiation of WNT/β-catenin signaling**
+  [Read →](2025_10_Voss2025.md)
   
 December 2025
-- **A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity**
+- **A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity**``
   [Read →](2025_12_zachos2023.md)
 - **Co‐Culture System of Human Enteroids/Colonoids with Innate Immune Cells**
   [Read →](2025_12_Staab2020.md)
