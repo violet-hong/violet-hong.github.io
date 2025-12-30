@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Literature
+permalink: /literature/
+---
 
 # Literature Notes
 
