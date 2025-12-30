@@ -12,9 +12,11 @@
   object-fit: contain;
 }
 </style>
+
 <div class="logo-bar">
   <img src="assets/vanderbilt.png" alt="Vanderbilt">
 </div>
+
 
 [Home](index.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md) |
 ---
