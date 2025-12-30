@@ -1,5 +1,6 @@
-<div style="position: fixed; top: 20px; right: 30px; display: flex; align-items: center; gap: 16px; z-index: 9999;">
-  <img src="assets/vanderbilt.png" alt="Vanderbilt" style="height: 42px; width: auto; object-fit: contain;">
+<div style="position: fixed; top: 20px; right: 20px; z-index: 99999; display: flex; justify-content: flex-end; width: auto;">
+  <img src="assets/vanderbilt.png" alt="Vanderbilt"
+       style="height: 42px; width: auto; display: block;">
 </div>
 
 ---
