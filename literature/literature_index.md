@@ -13,6 +13,10 @@ These notes are written for clarity and synthesis rather than completeness.
 August 2025
 - **Replication Fork Activation Is Enabled by a Single-Stranded DNA Gate in CMG Helicase**
   [Read →](2025_08_Wasserman2019.md)
+  
+September 2025
+**DNA damage induces p53-independent apoptosis through ribosome stalling**
+  [Read →](2025_09_Boon2024.md)
 
 October 2025
 - **WNT-induced association of Frizzled and LRP6 is not sufficient for the initiation of WNT/β-catenin signaling**
