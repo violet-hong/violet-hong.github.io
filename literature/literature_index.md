@@ -18,6 +18,6 @@ December 2025
   [Read →](2025_12_Staab2020.md)
 - **Depletion of the apical endosome in response to viruses and bacterial toxins provides cell-autonomous host defense at mucosal surfaces**
   [Read →](2025_12_Maeda2022.md)
-- 
-
+- **In vivo development of immune tissue in human intestinal organoids transplanted into humanized mice**
+  [Read →](2025_12_Bouffi2023.md)
 
