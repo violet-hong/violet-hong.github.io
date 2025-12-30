@@ -4,6 +4,7 @@
 <p align="center">
   <img src="assets/github_profile.PNG" alt="Violet Hong" width="200">
 </p>
+
 ## Violet Hong | PhD Student
 Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program
 (IGP) at Vanderbilt University. 
