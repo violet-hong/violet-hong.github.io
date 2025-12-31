@@ -1,8 +1,9 @@
 
 # Publications & Preprints
+ - Here is the list of my publications! (last updated December 31, 2025) 
 
 ## Peer-reviewed publications
----
+
 **McMahan Z.H.**, Casciola-Rosen L., Kaniecki T., Gutierrez-Alamillo L., **Hong S.M.**, Seika P., Kulkarni S.  
 Anti-mitochondrial antibodies in systemic sclerosis target enteric neurons and are associated with gastrointestinal dysmotility.  
 *Annals of the Rheumatic Diseases*, 2025.  
@@ -23,7 +24,6 @@ Unraveling the GI tract’s response to alcohol binges: neutrophil recruitment, 
 *Alcohol: Clinical and Experimental Research*, 2025.  
 DOI: https://doi.org/10.1111/acer.70196
 
----
 
 ## Preprints
 
