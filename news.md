@@ -1,9 +1,11 @@
 # News and Updates
 
 ## 2026
+
 - coming soon!
   
 ## 2025
+
 August 2025
 - started PhD at Vanderbilt University!!!
 
