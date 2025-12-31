@@ -1,6 +1,8 @@
 # Research
 
+<div class="card">
 I am interested in uncovering the cellular mechanisms that underlie gastrointestinal diseases characterized by functional and structural dysregulation. My work examines how perturbations in epithelial architecture, intracellular trafficking, and neuro-epithelial signaling impair gut physiology, using mechanistic models to bridge basic cell biology with clinically relevant disease states.
+</div>
 
 ## Research Directions
 - will update soon!
