@@ -129,3 +129,32 @@ nav,
 .markdown-body table td a:hover {
   text-decoration: underline;
 }
+
+/* Style the pipe-separated nav line (Markdown) */
+.markdown-body p:has(> a) {
+  text-align: center;
+  margin: 1.8rem 0 2.2rem 0;
+}
+
+/* Space out the nav links */
+.markdown-body p:has(> a) a {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  margin: 0 0.35rem;
+  font-weight: 600;
+  border-radius: 10px;
+}
+
+/* Hover */
+.markdown-body p:has(> a) a:hover {
+  background: rgba(9, 105, 218, 0.08);
+  text-decoration: none;
+}
+
+/* Make the | separators less “shouty” */
+.markdown-body p:has(> a) {
+  color: rgba(0,0,0,0.35);
+}
+.markdown-body p:has(> a) a {
+  color: #0969da;
+}
