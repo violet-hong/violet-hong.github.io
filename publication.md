@@ -6,7 +6,7 @@
 **McMahan Z.H.**, Casciola-Rosen L., Kaniecki T., Gutierrez-Alamillo L., **Hong S.M.**, Seika P., Kulkarni S.  
 Anti-mitochondrial antibodies in systemic sclerosis target enteric neurons and are associated with gastrointestinal dysmotility.  
 *Annals of the Rheumatic Diseases*, 2025.  
-DOI: 10.1016/j.ard.2025.06.2119
+DOI: https://doi.org/10.1016/j.ard.2025.06.2119
 
 **Gorecki A.M.**, Slosberg J., **Hong S.M.**, Midgen B., Singh A., Zhang C., Gurumurthy R., Kulkarni S.  
 Rate of neuronal turnover in the healthy adult murine myenteric ganglia varies with ganglia size.  
