@@ -3,22 +3,10 @@
 
 @import "{{ site.theme }}";
 
-/* Logo bar */
-.logo-bar {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  display: flex;
-  gap: 16px;
-  align-items: center;
-}
+/* --------------------------------------------------
+   Global layout / typography
+-------------------------------------------------- */
 
-.logo-bar img {
-  height: 42px;
-  object-fit: contain;
-}
-
-/* Global readability */
 .markdown-body {
   max-width: 880px;
   margin: 0 auto;
@@ -27,7 +15,7 @@
   font-size: 17px;
 }
 
-/* Headings: cleaner hierarchy */
+/* Headings */
 .markdown-body h1 {
   font-size: 2.2rem;
   margin: 0 0 1rem 0;
@@ -47,114 +35,18 @@
   margin: 0 0 1.25rem 0;
 }
 
-/* Links: less harsh */
+/* Links: clean + understated */
 .markdown-body a {
   text-decoration: none;
-  border-bottom: none;
 }
 
 .markdown-body a:hover {
   text-decoration: underline;
 }
 
-/* Card-style sections */
-.card {
-  background: #ffffff;
-  border: 1px solid #eaecef;
-  border-radius: 14px;
-  padding: 1.25rem;
-  box-shadow: 0 6px 20px rgba(140, 149, 159, 0.15);
-  margin: 1.5rem 0;
-}
+/* --------------------------------------------------
+   Remove “random lines” (rules/section dividers)
+-------------------------------------------------- */
 
-/* Remove the horizontal rules in the Primer header/nav area */
-header,
-.page-header,
-.site-header,
-.header,
-nav,
-.markdown-body header,
-.markdown-body nav {
-  border-bottom: none !important;
-  box-shadow: none !important;
-}
-
-/* Also remove the thin rule that can appear as <hr> */
-.markdown-body hr {
-  border: 0 !important;
-  height: 0 !important;
-  margin: 0 !important;
-}
-
-/* Center nav, remove boxes */
-.markdown-body .tabnav {
-  display: flex;
-  justify-content: center;
-  margin: 2rem 0 3rem 0;
-  border: none;
-}
-
-.markdown-body .tabnav-tab {
-  border: none;
-  background: none;
-  padding: 0.4rem 0.8rem;
-  margin: 0 0.6rem;
-  font-weight: 500;
-}
-
-.markdown-body .tabnav-tab.selected {
-  color: #0969da;
-  border-bottom: 2px solid #0969da;
-}
-
-/* Turn the nav table into plain centered links */
-.markdown-body table {
-  margin: 1.5rem auto 2.5rem auto;
-  border: none;
-  border-collapse: collapse;
-}
-
-.markdown-body table td {
-  border: none;
-  padding: 0 0.8rem;
-}
-
-.markdown-body table td a {
-  border: none;
-  background: none;
-  padding: 0.2rem 0;
-  font-weight: 600;
-}
-
-.markdown-body table td a:hover {
-  text-decoration: underline;
-}
-
-/* Style the pipe-separated nav line (Markdown) */
-.markdown-body p:has(> a) {
-  text-align: center;
-  margin: 1.8rem 0 2.2rem 0;
-}
-
-/* Space out the nav links */
-.markdown-body p:has(> a) a {
-  display: inline-block;
-  padding: 0.35rem 0.7rem;
-  margin: 0 0.35rem;
-  font-weight: 600;
-  border-radius: 10px;
-}
-
-/* Hover */
-.markdown-body p:has(> a) a:hover {
-  background: rgba(9, 105, 218, 0.08);
-  text-decoration: none;
-}
-
-/* Make the | separators less “shouty” */
-.markdown-body p:has(> a) {
-  color: rgba(0,0,0,0.35);
-}
-.markdown-body p:has(> a) a {
-  color: #0969da;
-}
+/* Hide ALL horizontal rules, including those outside .markdown-body */
+hr {
