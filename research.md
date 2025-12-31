@@ -1,15 +1,14 @@
 # Research
 
-My work focuses on 
+
 
 ## Research Directions
-- 
+- will update soon!
 
 ## Literature Notes
 
-Structured syntheses of papers that shape how I think about GI biology.
-These emphasize conceptual integration and open questions rather than
-paper-by-paper summary.
+Structured breakdown of papers that I read and are crucial to my studies.
+These notes aim to establish conceptual integration by deep-diving into individual articles.
 
 → [All literature notes](literature/literature_index.md)
 
@@ -22,6 +21,7 @@ adapted during my research training.
 
 ## Concepts & Models
 
-Conceptual frameworks and working models that guide my experimental thinking.
+Conceptual frameworks and working models that are identified in the literature and are broadly
+applicable concepts.
 
 → [All concepts](concepts/concepts_index.md)
