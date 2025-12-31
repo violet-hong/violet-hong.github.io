@@ -86,31 +86,23 @@ nav,
   margin: 0 !important;
 }
 
-/* Center the navigation bar */
+/* Center nav, remove boxes */
 .markdown-body .tabnav {
   display: flex;
   justify-content: center;
   margin: 2rem 0 3rem 0;
+  border: none;
 }
 
-/* Make nav tabs cleaner */
 .markdown-body .tabnav-tab {
-  padding: 0.6rem 1.2rem;
-  margin: 0 0.25rem;
-  border-radius: 999px; /* pill shape */
-  border: 1px solid #eaecef;
-  background: #fafbfc;
+  border: none;
+  background: none;
+  padding: 0.4rem 0.8rem;
+  margin: 0 0.6rem;
+  font-weight: 500;
 }
 
-/* Active tab */
 .markdown-body .tabnav-tab.selected {
-  background: #0969da;
-  color: white;
-  border-color: #0969da;
-}
-
-/* Hover */
-.markdown-body .tabnav-tab:hover {
-  background: #eaecef;
-  text-decoration: none;
+  color: #0969da;
+  border-bottom: 2px solid #0969da;
 }
