@@ -19,6 +19,9 @@ August 2025
 September 2025
 - **DNA damage induces p53-independent apoptosis through ribosome stalling**
   [Read →](2025_09_Boon2024.md)
+- **Genome-Scale CRISPR-Cas9 Knockout Screening in Human Cells**
+  [Read →](2025_09_Shalem2014.md)
+  
 
 October 2025
 - **WNT-induced association of Frizzled and LRP6 is not sufficient for the initiation of WNT/β-catenin signaling**
