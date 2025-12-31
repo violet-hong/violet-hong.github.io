@@ -50,3 +50,5 @@
 
 /* Hide ALL horizontal rules, including those outside .markdown-body */
 hr {
+  display: none !important;
+}
