@@ -1,6 +1,6 @@
----
+
 # Publications & Preprints
----
+
 ## Peer-reviewed publications
 
 **McMahan Z.H.**, Casciola-Rosen L., Kaniecki T., Gutierrez-Alamillo L., **Hong S.M.**, Seika P., Kulkarni S.  
