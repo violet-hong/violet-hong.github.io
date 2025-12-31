@@ -106,3 +106,26 @@ nav,
   color: #0969da;
   border-bottom: 2px solid #0969da;
 }
+
+/* Turn the nav table into plain centered links */
+.markdown-body table {
+  margin: 1.5rem auto 2.5rem auto;
+  border: none;
+  border-collapse: collapse;
+}
+
+.markdown-body table td {
+  border: none;
+  padding: 0 0.8rem;
+}
+
+.markdown-body table td a {
+  border: none;
+  background: none;
+  padding: 0.2rem 0;
+  font-weight: 600;
+}
+
+.markdown-body table td a:hover {
+  text-decoration: underline;
+}
