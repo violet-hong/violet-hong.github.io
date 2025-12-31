@@ -70,4 +70,32 @@ hr {
   border-radius: 12px;
   color: #0969da;
 }
+/* NAV SPACING — works whether nav is a <p> or a <blockquote> */
+.markdown-body > p:first-of-type,
+.markdown-body > blockquote:first-of-type {
+  text-align: center !important;
+  margin: 2.2rem 0 3rem 0 !important;
+  padding: 0 !important;
+  border-left: none !important;
+  color: transparent; /* hides the | separators */
+}
+
+/* style the links inside that first line */
+.markdown-body > p:first-of-type a,
+.markdown-body > blockquote:first-of-type a {
+  display: inline-block;
+  margin: 0 1rem;
+  padding: 0.45rem 1rem;
+  font-weight: 600;
+  border-radius: 12px;
+  color: #0969da !important;
+  text-decoration: none !important;
+}
+
+.markdown-body > p:first-of-type a:hover,
+.markdown-body > blockquote:first-of-type a:hover {
+  background: rgba(9, 105, 218, 0.08);
+  text-decoration: none !important;
+}
+
 
