@@ -11,7 +11,7 @@
        style="height: 42px; width: auto; pointer-events: auto;">
 </div>
 
-[Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
+>[Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
 
 <p align="center">
   <img src="assets/github_profile.PNG" alt="Violet Hong" width="200">
