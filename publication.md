@@ -1,6 +1,5 @@
 
 # Publications & Preprints
- - Here is the list of my publications! (last updated December 31, 2025) 
 
 ## Peer-reviewed publications
 
