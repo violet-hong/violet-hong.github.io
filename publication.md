@@ -2,7 +2,7 @@
 # Publications & Preprints
 
 ## Peer-reviewed publications
-
+---
 **McMahan Z.H.**, Casciola-Rosen L., Kaniecki T., Gutierrez-Alamillo L., **Hong S.M.**, Seika P., Kulkarni S.  
 Anti-mitochondrial antibodies in systemic sclerosis target enteric neurons and are associated with gastrointestinal dysmotility.  
 *Annals of the Rheumatic Diseases*, 2025.  
