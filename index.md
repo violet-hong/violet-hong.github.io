@@ -1,4 +1,3 @@
-
 <div style="
   position: fixed;
   top: 0; left: 0; right: 0;
@@ -32,6 +31,8 @@ In the [Kulkarni Lab](https://www.enteric-neuron.com/), I led projects investiga
 
 In my PhD training, I aim to build on this foundation by investigating how cellular mechanisms within the gastrointestinal tract maintain tissue function and how their disruption drives disease.
 
+---
+
 ### Research and Scientific Interest (Keywords)
 - Gastrointestinal (GI) tract
 - epithelial cell biology (microvilli growth, cytoskeleton, trafficking)
@@ -44,7 +45,6 @@ In my PhD training, I aim to build on this foundation by investigating how cellu
 - Hormones (PCOS)
 - Patient-derived research tool (Biobanking)
 
----
 ---
 
 ### Links
