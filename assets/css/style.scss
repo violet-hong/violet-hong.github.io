@@ -52,42 +52,25 @@
 hr {
   display: none !important;
 }
-/* Nav container spacing */
-.markdown-body blockquote {
-  text-align: center;
-  margin: 2.2rem 0 3rem 0;   /* more vertical space */
-  padding: 0;
-  border-left: none;
-  color: transparent;       /* hides the | separators */
-}
-
-/* Nav links */
-.markdown-body blockquote a {
-  display: inline-block;
-  margin: 0 0.9rem;         /* THIS spreads them horizontally */
-  padding: 0.45rem 0.9rem;  /* increases clickable area */
-  font-weight: 600;
-  border-radius: 12px;
-  color: #0969da;
-}
-/* NAV SPACING — works whether nav is a <p> or a <blockquote> */
+/* NAV — tighter, cleaner spacing */
 .markdown-body > p:first-of-type,
 .markdown-body > blockquote:first-of-type {
   text-align: center !important;
-  margin: 2.2rem 0 3rem 0 !important;
+  margin: 1.6rem 0 2.2rem 0 !important; /* less vertical space */
   padding: 0 !important;
   border-left: none !important;
-  color: transparent; /* hides the | separators */
+  color: transparent; /* hides | separators */
 }
 
-/* style the links inside that first line */
+/* Nav links */
 .markdown-body > p:first-of-type a,
 .markdown-body > blockquote:first-of-type a {
   display: inline-block;
-  margin: 0 1rem;
-  padding: 0.45rem 1rem;
+  margin: 0 0.55rem;          /* tighter horizontal spacing */
+  padding: 0.25rem 0.55rem;   /* smaller click area */
   font-weight: 600;
-  border-radius: 12px;
+  font-size: 0.95rem;         /* slightly smaller text */
+  border-radius: 8px;         /* less pill-like */
   color: #0969da !important;
   text-decoration: none !important;
 }
@@ -97,5 +80,3 @@ hr {
   background: rgba(9, 105, 218, 0.08);
   text-decoration: none !important;
 }
-
-
