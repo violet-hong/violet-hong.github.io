@@ -18,9 +18,7 @@
 
 # Violet Hong | PhD Student
 
-<div class="card">
 Welcome! Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program(IGP) at Vanderbilt University since August 2025. 
-</div>
 
 My prior research experience spanned enteric neurobiology, epithelial–stromal interactions, and cancer biology, with an emphasis on mechanistic and translational approaches using murine models and human tissue. 
 
