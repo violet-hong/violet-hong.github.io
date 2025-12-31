@@ -52,31 +52,39 @@
 }
 
 /* --------------------------------------------------
-   Navigation styling (FIRST PARAGRAPH ONLY)
+   Navigation styling (explicit .top-nav class)
 -------------------------------------------------- */
 
-.markdown-body > p:first-of-type {
+.markdown-body p.top-nav {
   text-align: center;
   margin: 1.6rem 0 2.2rem 0;
   padding: 0;
   border-left: none;
-  color: transparent; /* hides separators */
+}
+
+/* Optional: if you used "|" separators and want them hidden */
+.markdown-body p.top-nav {
+  /* Hide the literal pipe characters by making the paragraph text transparent... */
+  color: transparent;
+}
+
+/* ...but re-show link text */
+.markdown-body p.top-nav a {
+  color: #0969da !important;
 }
 
 /* Nav links */
-
-.markdown-body > p:first-of-type a {
+.markdown-body p.top-nav a {
   display: inline-block;
   margin: 0 0.55rem;
   padding: 0.25rem 0.55rem;
   font-weight: 600;
   font-size: 0.95rem;
   border-radius: 10px;
-  color: #0969da !important;
   text-decoration: none !important;
 }
 
-.markdown-body > p:first-of-type a:hover {
+.markdown-body p.top-nav a:hover {
   background: rgba(9, 105, 218, 0.08);
 }
 
