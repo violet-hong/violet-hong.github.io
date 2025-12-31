@@ -85,3 +85,32 @@ nav,
   height: 0 !important;
   margin: 0 !important;
 }
+
+/* Center the navigation bar */
+.markdown-body .tabnav {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0 3rem 0;
+}
+
+/* Make nav tabs cleaner */
+.markdown-body .tabnav-tab {
+  padding: 0.6rem 1.2rem;
+  margin: 0 0.25rem;
+  border-radius: 999px; /* pill shape */
+  border: 1px solid #eaecef;
+  background: #fafbfc;
+}
+
+/* Active tab */
+.markdown-body .tabnav-tab.selected {
+  background: #0969da;
+  color: white;
+  border-color: #0969da;
+}
+
+/* Hover */
+.markdown-body .tabnav-tab:hover {
+  background: #eaecef;
+  text-decoration: none;
+}
