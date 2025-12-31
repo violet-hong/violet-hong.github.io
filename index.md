@@ -11,17 +11,15 @@
        style="height: 42px; width: auto; pointer-events: auto;">
 </div>
 
-> [Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
+[Home](index.md) | [News](news.md) | [Research](research.md) | [Publications](publication.md) | [CV](cv.md) | [Contact](contact.md) |
 
-
-# Welcome!
 <p align="center">
   <img src="assets/github_profile.PNG" alt="Violet Hong" width="200">
 </p>
 
 # Violet Hong | PhD Student
 <div class="card">
-Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program(IGP) at Vanderbilt University since August 2025. 
+Welcome! Thank you for visiting my page! My name is Violet, and I am a PhD Student in the Interdisciplinary Graduate Program(IGP) at Vanderbilt University since August 2025. 
 </div>
 
 My prior research experience spanned enteric neurobiology, epithelial–stromal interactions, and cancer biology, with an emphasis on mechanistic and translational approaches using murine models and human tissue. 
