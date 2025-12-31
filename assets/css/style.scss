@@ -16,6 +16,7 @@
 }
 
 /* Headings */
+
 .markdown-body h1 {
   font-size: 2.2rem;
   margin: 0 0 1rem 0;
@@ -30,12 +31,18 @@
   border-bottom: 1px solid #eaecef;
 }
 
+.markdown-body h3 {
+  margin-top: 0;
+}
+
 /* Paragraph spacing */
+
 .markdown-body p {
   margin: 0 0 1.25rem 0;
 }
 
-/* Links: clean + understated */
+/* Links */
+
 .markdown-body a {
   text-decoration: none;
 }
@@ -45,38 +52,60 @@
 }
 
 /* --------------------------------------------------
-   Remove “random lines” (rules/section dividers)
+   Navigation styling (FIRST PARAGRAPH ONLY)
 -------------------------------------------------- */
 
-/* Hide ALL horizontal rules, including those outside .markdown-body */
-hr {
-  display: none !important;
-}
-/* NAV — tighter, cleaner spacing */
-.markdown-body > p:first-of-type,
-.markdown-body > blockquote:first-of-type {
-  text-align: center !important;
-  margin: 1.6rem 0 2.2rem 0 !important; /* less vertical space */
-  padding: 0 !important;
-  border-left: none !important;
-  color: transparent; /* hides | separators */
+.markdown-body > p:first-of-type {
+  text-align: center;
+  margin: 1.6rem 0 2.2rem 0;
+  padding: 0;
+  border-left: none;
+  color: transparent; /* hides separators */
 }
 
 /* Nav links */
-.markdown-body > p:first-of-type a,
-.markdown-body > blockquote:first-of-type a {
+
+.markdown-body > p:first-of-type a {
   display: inline-block;
-  margin: 0 0.55rem;          /* tighter horizontal spacing */
-  padding: 0.25rem 0.55rem;   /* smaller click area */
+  margin: 0 0.55rem;
+  padding: 0.25rem 0.55rem;
   font-weight: 600;
-  font-size: 0.95rem;         /* slightly smaller text */
-  border-radius: 10px;         /* less pill-like */
+  font-size: 0.95rem;
+  border-radius: 10px;
   color: #0969da !important;
   text-decoration: none !important;
 }
 
-.markdown-body > p:first-of-type a:hover,
-.markdown-body > blockquote:first-of-type a:hover {
+.markdown-body > p:first-of-type a:hover {
   background: rgba(9, 105, 218, 0.08);
-  text-decoration: none !important;
+}
+
+/* --------------------------------------------------
+   Section “card” blocks (blockquote-based)
+-------------------------------------------------- */
+
+.markdown-body blockquote.section-box {
+  background: #f8faff;
+  border: 1px solid #e6ecff;
+  border-left: none;
+  border-radius: 14px;
+  padding: 1.6rem;
+  margin: 1.8rem 0;
+  color: inherit;
+}
+
+.markdown-body blockquote.section-box > p {
+  margin: 0.6rem 0;
+}
+
+.markdown-body blockquote.section-box > h3 {
+  margin-top: 0;
+}
+
+/* --------------------------------------------------
+   Remove horizontal rules
+-------------------------------------------------- */
+
+hr {
+  display: none !important;
 }
