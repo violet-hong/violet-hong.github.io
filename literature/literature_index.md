@@ -23,6 +23,7 @@ September 2025
   [Read →](2025_09_Shalem2014.md)
 - **Riboregulation of Enolase 1 activity controls glycolysis and embryonic stem cell differentiation**
   [Read →](2025_09_Huppertz2022.md)
+  
 October 2025
 - **WNT-induced association of Frizzled and LRP6 is not sufficient for the initiation of WNT/β-catenin signaling**
   [Read →](2025_10_Voss2025.md)
