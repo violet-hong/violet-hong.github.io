@@ -1,0 +1,142 @@
+~~~yaml
+read_status: annotated
+type: paper
+title: "Microbiota-derived bile acids antagonize the host androgen receptor and drive anti-tumor immunity"
+year: 2025
+authors:
+- "Jin, Wen-Bing"
+- "Xiao, Leyi"
+- "Jeong, Mingeum"
+- "Han, Seong-Ji"
+- "Zhang, Wen"
+- "Yano, Hiroshi"
+- "Shi, Huiqing"
+- "Arifuzzaman, Mohammad"
+- "Lyu, Mengze"
+- "Wang, Daoming"
+- "Tang, Yuelin Angelina"
+- "Qiao, Shanshan"
+- "Yang, Xiaoyu"
+- "Yang, He S."
+- "Fu, Jingyuan"
+- "Sonnenberg, Gregory F."
+- "Collins, Nicholas"
+- "Artis, David"
+- "Guo, Chun-Jun"
+
+journal: "Cell"
+doi: "10.1016/j.cell.2025.02.029"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0092867425002569"
+project:
+  - IGP
+system:
+  - gut_microbiota
+  - bile_acid_pool
+  - cd8_t_cells
+  - tumor_microenvironment
+
+disease:
+  - cancer
+  - solid_tumor
+
+genes:
+  - androgen_receptor
+  - tcf7
+
+processes:
+  - bile_acid_metabolism
+  - nuclear_receptor_antagonism
+  - cd8_t_cell_differentiation
+  - immune_checkpoint_response
+
+methods:
+  - bile_acid_metabolomics
+  - microbial_genetic_screen
+  - nuclear_receptor_reporter_assay
+  - murine_tumor_models
+  - single_cell_rna_sequencing
+
+key_findings:
+  - androgen_receptor_inhibition
+  - cd8_t_cell_stemness_induction
+  - anti_pd1_potentiation
+  - microbiota_host_metabolite_crosstalk
+
+limitations:
+  - incomplete_receptor_binding_mechanism
+  - limited_human_intervention_data
+  - bile_acid_specificity
+
+relevance:
+  - microbiota_immunotherapy_axis
+  - nuclear_receptor_reprogramming
+  - metabolite_based_therapy
+
+concepts:
+  - Microbiota_Derived_Nuclear_Receptor_Ligands
+  - CD8_T_Cell_Stem_Like_States
+  - Bile_Acid_Structure_Function_Relationships
+
+tags:
+  - microbiome
+  - bile_acids
+  - androgen_receptor
+  - cancer_immunity
+
+~~~
+
+
+## Abstract
+Microbiota-derived bile acids (BAs) are associated with host biology/disease, yet their causal effects remain largely undeﬁned. Herein, we speculate that characterizing previously undeﬁned microbiota-derived BAs would uncover previously unknown BA-sensing receptors and their biological functions. We integrated BA metabolomics and microbial genetics to functionally proﬁle >200 putative microbiota BA metabolic genes. We identiﬁed 56 less-characterized BAs, many of which are detected in humans/mammals. Notably, a subset of these BAs are potent antagonists of the human androgen receptor (hAR). They inhibit AR-related gene expression and are human-relevant. As a proof-of-principle, we demonstrate that one of these BAs suppresses tumor progression and potentiates the efﬁcacy of anti-PD-1 treatment in an AR-dependent manner. Our ﬁndings show that an approach combining bioinformatics, BA metabolomics, and microbial genetics can expand our knowledge of the microbiota metabolic potential and reveal an unexpected microbiota BA-AR interaction and its role in regulating host biology.
+
+## Key Findings
+- Microbiota-derived **oxo-bile acids directly antagonize androgen receptor (AR)** signaling.
+    
+- AR antagonism is **necessary** for tumor suppression and **sufficient** to potentiate anti-PD-1 therapy.
+    
+- Anti-tumor effects require **CD8⁺ T cell–intrinsic AR signaling**.
+    
+- AR-antagonizing bile acids promote **stem-like CD8⁺ T cell differentiation (Tcf7⁺, CD62L⁺)**.
+    
+- Effects are **immune-mediated**, not due to direct tumor cytotoxicity.
+
+## Methods
+- High-throughput **microbial hydroxysteroid dehydrogenase (HSDH) functional screening**.
+    
+- Targeted and untargeted **bile acid metabolomics (LC-MS)**.
+    
+- **AR luciferase reporter** and ligand-binding assays.
+    
+- **Syngeneic murine tumor models** with androgen manipulation.
+    
+- **CD8⁺ T cell depletion and adoptive transfer** experiments.
+    
+- **Single-cell RNA-seq** of tumor-infiltrating CD8⁺ T cells.
+
+## Notes
+- Demonstrates **microbiota metabolites as functional steroid receptor ligands**, not passive correlates.
+    
+- Reframes bile acids as **immune-reprogramming signals**, not only metabolic detergents.
+    
+- Connects **sex hormone signaling** directly to **tumor immunotherapy efficacy**.
+    
+- Provides a mechanistic bridge between **microbiome variability** and **heterogeneous immunotherapy response**.
+
+## Figures / Data
+- **Figure 1–2**: Functional mapping of microbiota HSDHs and novel bile acid structures.
+    
+- **Figure 3**: Structure–activity relationship defining AR antagonism by oxo-bile acids.
+    
+- **Figure 4**: Microbiota-dependent production and human relevance of AR-antagonizing bile acids.
+    
+- **Figure 5**: Tumor suppression and anti-PD-1 potentiation in vivo.
+    
+- **Figure 6–7**: CD8⁺ T cell–intrinsic AR requirement and stem-like differentiation trajectory.
+
+## Limitations
+- Molecular details of **AR–bile acid binding dynamics** remain incomplete.
+    
+- Limited direct **human interventional validation**.
+    
+- Specificity across different bile acid species requires further resolution.
+
