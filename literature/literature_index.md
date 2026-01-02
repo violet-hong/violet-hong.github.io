@@ -28,6 +28,8 @@ October 2025
   [Read →](2025_10_Voss2025.md)
 - **Tirzepatide modulates the regulation of adipocyte nutrient metabolism through long-acting activation of the GIP receptor**
   [Read →](2025_10_Regmi2024.md)
+- **Microbiota-derived bile acids antagonize the host androgen receptor and drive anti-tumor immunity**
+  [Read →](2025_10_Jin2025.md)
   
 December 2025
 - **A Novel Peptide Prevents Enterotoxin- and Inflammation-Induced Intestinal Fluid Secretion by Stimulating Sodium-Hydrogen Exchanger 3 Activity**``
