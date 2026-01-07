@@ -10,7 +10,11 @@ about gastrointestinal biology, epithelial architecture, and disease mechanisms.
 These notes are written for clarity and synthesis rather than completeness.
 
 ---
-
+## 2026
+January 2026
+- **Differential pre-malignant programs and microenvironment chart distinct paths to malignancy in human colorectal polyps**
+    [Read →](2026_01_Chen2021.md)
+  
 ## 2025
 August 2025
 - **Replication Fork Activation Is Enabled by a Single-Stranded DNA Gate in CMG Helicase**
