@@ -16,6 +16,8 @@ January 2026
   [Read →](2026_01_Chen2021.md)
 - **Myosin Vb Traffics P-Glycoprotein to the Apical Membrane of Intestinal Epithelial Cells**
   [Read →](2026_01_Dooley2025.md)
+- **The Molecular Motor Myosin 5B and Its Folding Chaperone UNC45A Are Decreased in Colorectal Cancer**
+  [Read →](2026_01_Dooley2025a.md)
   
 ## 2025
 August 2025
