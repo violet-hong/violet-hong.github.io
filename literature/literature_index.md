@@ -18,6 +18,8 @@ January 2026
   [Read →](2026_01_Dooley2025.md)
 - **The Molecular Motor Myosin 5B and Its Folding Chaperone UNC45A Are Decreased in Colorectal Cancer**
   [Read →](2026_01_Dooley2025a.md)
+- **An organoid-based CRISPR-Cas9 screen for regulators of intestinal epithelial maturation and cell fate**
+  [Read →](2026_01_Hansen2023.md)
   
 ## 2025
 August 2025
