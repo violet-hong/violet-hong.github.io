@@ -20,6 +20,8 @@ January 2026
   [Read →](2026_01_Dooley2025a.md)
 - **An organoid-based CRISPR-Cas9 screen for regulators of intestinal epithelial maturation and cell fate**
   [Read →](2026_01_Hansen2023.md)
+- **Fate mapping in mouse demonstrates early secretory differentiation directly from Lgr5+ intestinal stem cells**
+  [Read →](2026_01_Banjac2025.md)
   
 ## 2025
 August 2025
