@@ -4,10 +4,6 @@ layout: default
 
 # Literature Notes
 
-Structured summaries and conceptual syntheses of papers that shape how I think
-about gastrointestinal biology, epithelial architecture, and disease mechanisms.
-
-These notes are written for clarity and synthesis rather than completeness.
 
 ---
 ## 2026
