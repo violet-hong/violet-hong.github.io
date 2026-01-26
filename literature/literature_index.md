@@ -22,6 +22,8 @@ January 2026
   [Read →](2026_01_Hansen2023.md)
 - **Fate mapping in mouse demonstrates early secretory differentiation directly from Lgr5+ intestinal stem cells**
   [Read →](2026_01_Banjac2025.md)
+- **Cathartocytosis: Jettisoning of cellular material during reprogramming of differentiated cells**
+  [Read →](2026_01_Brown2025.md)
   
 ## 2025
 August 2025
